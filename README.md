@@ -19,12 +19,12 @@ Lempel–Ziv–Welch (LZW) is a universal lossless data compression algorithm cr
 ## Demo
 
 ### Main screen
-![alt text](https://github.com/NguyenHoangAn0511/Instanced-Level-image-retrieval-with-DeLF/blob/main/demo/main.jpeg)
+![alt text](https://github.com/NguyenHoangAn0511/LZW-Algorithm/blob/main/demo/main.png)
 
 ### Example
-![alt text](https://github.com/NguyenHoangAn0511/Instanced-Level-image-retrieval-with-DeLF/blob/main/demo/1.png)
-![alt text](https://github.com/NguyenHoangAn0511/Instanced-Level-image-retrieval-with-DeLF/blob/main/demo/2.png)
-![alt text](https://github.com/NguyenHoangAn0511/Instanced-Level-image-retrieval-with-DeLF/blob/main/demo/3.png)
+![alt text](https://github.com/NguyenHoangAn0511/LZW-Algorithm/blob/main/demo/1.png)
+![alt text](https://github.com/NguyenHoangAn0511/LZW-Algorithm/blob/main/demo/2.png)
+![alt text](https://github.com/NguyenHoangAn0511/LZW-Algorithm/blob/main/demo/3.png)
 
 ## Checklist
 - [x] GUI
